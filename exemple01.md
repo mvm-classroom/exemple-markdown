@@ -48,3 +48,33 @@ def process_directory(input_dir, extension='jpg'):
             rutaDestino = os.path.join(output_dir, output_filename)
             procesarImagen(rutaOrigen, rutaDestino)
 ```
+> [!Note] 
+> ### Podem definir una secció de notes
+> - nota 1
+> - nota 2
+> - nota 3
+>
+
+> [!Note] 
+> ### Les notes poden incloure blocs de codi
+> ```python
+> rutaDestino = os.path.join(output_dir, output_filename)
+> procesarImagen(rutaOrigen, rutaDestino)
+> ```
+
+## Tipus de seccions de notes que podem fer servir
+
+> [!NOTE]
+> Informació que pot valdre la pena tenir en compte
+
+> [!TIP]
+> Consells, bones pràctiques o qualsevol informació que pot ser d'ajuda
+
+> [!IMPORTANT]
+> Informació que volem remarcar com molt necessària o crucial
+
+> [!WARNING]
+> Avisos a tenir en compte encara que no siguin errors, riscos potencials
+
+> [!CAUTION]
+> Catàstrofe imminent, perill assegurat, error garantit, apocalipsi
