@@ -6,7 +6,7 @@ Objectiu: Aprofundir i posar en pràctica els coneixements adquirits sobre l'ús
 
 
 > [!IMPORTANT]
-> Desenvolupament: En parelles.
+> Desenvolupament: En parelles....
 
 
 
